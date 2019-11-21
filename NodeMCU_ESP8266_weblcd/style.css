@@ -1,0 +1,30 @@
+body{
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6));
+    background-image: url(image/sky-blur.jpg);
+    
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff !important;
+}
+
+
+h1{
+    
+    font-family: sans-serif;
+    letter-spacing: 1px;
+    margin-left: 100px;
+}
+
+.row{
+    margin-top: 100px;
+    width: 100%;
+}
+
+
+.col-md-3{
+    margin-top: 50px;
+    margin-left: 200px;
+    text-decoration-color: aliceblue;
+}
